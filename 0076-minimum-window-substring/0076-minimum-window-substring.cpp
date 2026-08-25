@@ -1,28 +1,41 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        if (s.size() == 0 || t.size() == 0) return "";
-        vector<int> remaining(128, 0);
-        int required = t.size();
-        for (int i = 0; i < required; i++) remaining[t[i]]++;
-        // left is the start index of the min-length substring ever found
-        int min = INT_MAX, start = 0, left = 0, i = 0;
-        while(i <= s.size() && start < s.size()) {
-            if(required) {
-                if (i == s.size()) break;
-                remaining[s[i]]--;
-                if (remaining[s[i]] >= 0) required--;
-                i++;
-            } else {
-                if (i - start < min) {
-                    min = i -start;
-                    left = start;
+        int n = s.length();
+        int m = t.length();
+
+        unordered_map<char, int> charFreqMap;
+
+        for(char c: t){
+            charFreqMap[c]++;
+        }
+
+        int startIdx = -1, minLen = INT_MAX, cnt = 0;
+
+        int start = 0;
+
+        for(int end = 0; end<n; end++){
+            if(charFreqMap[s[end]]>0) //char was in t
+                cnt++;
+
+            charFreqMap[s[end]]--;
+
+            while(cnt == m) //shrink window when all chars from t found
+            {
+                if(minLen > end-start+1){
+                    startIdx = start;
+                    minLen = end-start+1;
                 }
-                remaining[s[start]]++;
-                if (remaining[s[start]] > 0) required++;
+
+                charFreqMap[s[start]]++;
+                if(charFreqMap[s[start]] > 0){
+                    cnt--;
+                }
                 start++;
             }
+
         }
-        return min == INT_MAX? "" : s.substr(left, min);
+        return startIdx == -1 ? "" : s.substr(startIdx, minLen);
+
     }
 };
