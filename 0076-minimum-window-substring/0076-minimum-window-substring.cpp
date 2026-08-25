@@ -4,7 +4,7 @@ public:
         int n = s.length();
         int m = t.length();
 
-        unordered_map<char, int> charFreqMap;
+        vector<int> charFreqMap(256, 0);
 
         for(char c: t){
             charFreqMap[c]++;
