@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/divyadhimaan/leetcoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/divyadhimaan/leetcoding/tree/master/0015-3sum) |
 | [0239-sliding-window-maximum](https://github.com/divyadhimaan/leetcoding/tree/master/0239-sliding-window-maximum) |
 ## Queue
@@ -40,9 +41,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/divyadhimaan/leetcoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/divyadhimaan/leetcoding/tree/master/0015-3sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/divyadhimaan/leetcoding/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/divyadhimaan/leetcoding/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
