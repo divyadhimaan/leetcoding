@@ -15,7 +15,10 @@ public:
                 int low = j+1, high = n-1;
 
                 while(low < high){
-                    long long sum = (long long)nums[i]+nums[j]+nums[low]+nums[high];
+                    long long sum = (long long)nums[i];
+                    sum += nums[j];
+                    sum += nums[low];
+                    sum += nums[high];
 
                     if(sum<target){
                         low++;
