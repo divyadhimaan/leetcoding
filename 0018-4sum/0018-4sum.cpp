@@ -1,55 +1,41 @@
 class Solution {
 public:
-    
-    vector<vector<int>> kSum(vector<int>& nums, long long target, int start, int k)
-    {
-        vector<vector<int>> res;
-        
-        if(start == nums.size()){
-            return res;
-        }
-        
-        long long avg_value = target / k;
-        
-        if(nums[start] > avg_value || avg_value > nums.back())
-            return res;
-        
-        if (k == 2) {
-            return twoSum(nums, target, start);
-        }
-    
-        for (int i = start; i < nums.size(); ++i) {
-            if (i == start || nums[i - 1] != nums[i]) {
-                for (vector<int>& subset : kSum(nums, static_cast<long long>(target) - nums[i], i + 1, k - 1)) {
-                    res.push_back({nums[i]});
-                    res.back().insert(end(res.back()), begin(subset), end(subset));
+    vector<vector<int>> fourSum(vector<int>& nums, int target) {
+        int n = nums.size();
+        sort(nums.begin(), nums.end());
+
+        vector<vector<int>> result;
+        for(int i=0;i<n-3;i++){
+            if(i>0 && nums[i]==nums[i-1])
+                continue;
+            for(int j=i+1; j<n-2;j++){
+                if(j>i+1 && nums[j]==nums[j-1])
+                    continue;
+                
+                int low = j+1, high = n-1;
+
+                while(low < high){
+                    long long sum = (long long)nums[i]+nums[j]+nums[low]+nums[high];
+
+                    if(sum<target){
+                        low++;
+                    }else if(sum>target){
+                        high--;
+                    }else{
+                        result.push_back({nums[i], nums[j], nums[low], nums[high]});
+                        
+                        while(low < high && nums[low]==nums[low+1])
+                            low++;
+                        while(low < high && nums[high]==nums[high-1])
+                            high--;
+
+                        low++;
+                        high--;
+                    }
                 }
             }
         }
-                                            
-        return res;
-    }
-    
-    vector<vector<int>> twoSum(vector<int>& nums, long long target, int start) {
-        vector<vector<int>> res;
-        int lo = start, hi = int(nums.size()) - 1;
-    
-        while (lo < hi) {
-            int curr_sum = nums[lo] + nums[hi];
-            if (curr_sum < target || (lo > start && nums[lo] == nums[lo - 1])) {
-                ++lo;
-            } else if (curr_sum > target || (hi < nums.size() - 1 && nums[hi] == nums[hi + 1])) {
-                --hi;
-            } else {
-                res.push_back({ nums[lo++], nums[hi--] });
-            }
-        }
-                                                           
-        return res;
-    }
-        
-    vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        sort(nums.begin(), nums.end());
-        return kSum(nums, target, 0, 4);
+        return result;
+
     }
 };
