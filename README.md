@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyadhimaan/leetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/divyadhimaan/leetcoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/divyadhimaan/leetcoding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/divyadhimaan/leetcoding/tree/master/0018-4sum) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0005-longest-palindromic-substring) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -86,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyadhimaan/leetcoding/tree/master/0002-add-two-numbers) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
