@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/divyadhimaan/leetcoding/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/divyadhimaan/leetcoding/tree/master/0189-rotate-array) |
 ## Quicksort
 |  |
@@ -74,4 +75,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/divyadhimaan/leetcoding/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/divyadhimaan/leetcoding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
