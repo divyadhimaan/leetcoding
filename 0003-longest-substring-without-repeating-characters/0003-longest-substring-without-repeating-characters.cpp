@@ -5,15 +5,14 @@ public:
         int maxLen = INT_MIN;
         int start = 0;
 
-        unordered_set<char> st;
+        unordered_map<char, int> lastSeenIdx;
 
         for(int end=0;end<n;end++){
             char c = s[end];
-            while(st.count(c)){
-                st.erase(s[start]);
-                start++;
+            if(lastSeenIdx.find(c) != lastSeenIdx.end()){
+                start = max(start, lastSeenIdx[c]+1);
             }
-            st.insert(c);
+            lastSeenIdx[c] = end;
             maxLen = max(maxLen, end-start+1);
         }
         if(maxLen == INT_MIN)
