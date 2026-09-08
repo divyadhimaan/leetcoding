@@ -5,12 +5,12 @@ public:
         int maxLen = INT_MIN;
         int start = 0;
 
-        unordered_map<char, int> lastSeenIdx;
+        vector<int> lastSeenIdx(256,-1);
 
         for(int end=0;end<n;end++){
             char c = s[end];
-            if(lastSeenIdx.find(c) != lastSeenIdx.end()){
-                start = max(start, lastSeenIdx[c]+1);
+            if(lastSeenIdx[c] >= start){
+                start = lastSeenIdx[c]+1;
             }
             lastSeenIdx[c] = end;
             maxLen = max(maxLen, end-start+1);
