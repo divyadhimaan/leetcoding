@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/divyadhimaan/leetcoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/divyadhimaan/leetcoding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/divyadhimaan/leetcoding/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/divyadhimaan/leetcoding/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/divyadhimaan/leetcoding/tree/master/0239-sliding-window-maximum) |
 ## Queue
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/divyadhimaan/leetcoding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/divyadhimaan/leetcoding/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0056-merge-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -60,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/divyadhimaan/leetcoding/tree/master/0189-rotate-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
