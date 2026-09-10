@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyadhimaan/leetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/divyadhimaan/leetcoding/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/divyadhimaan/leetcoding/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/divyadhimaan/leetcoding/tree/master/0022-generate-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -94,4 +96,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/divyadhimaan/leetcoding/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/divyadhimaan/leetcoding/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
