@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/divyadhimaan/leetcoding/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/divyadhimaan/leetcoding/tree/master/0057-insert-interval) |
 | [0189-rotate-array](https://github.com/divyadhimaan/leetcoding/tree/master/0189-rotate-array) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/divyadhimaan/leetcoding/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/divyadhimaan/leetcoding/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |
