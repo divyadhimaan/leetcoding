@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/divyadhimaan/leetcoding/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/divyadhimaan/leetcoding/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/divyadhimaan/leetcoding/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -162,11 +163,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -176,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
