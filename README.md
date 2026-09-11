@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/divyadhimaan/leetcoding/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/divyadhimaan/leetcoding/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0143-reorder-list](https://github.com/divyadhimaan/leetcoding/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/divyadhimaan/leetcoding/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -114,10 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyadhimaan/leetcoding/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/divyadhimaan/leetcoding/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/divyadhimaan/leetcoding/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyadhimaan/leetcoding/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/divyadhimaan/leetcoding/tree/master/0143-reorder-list) |
 ## Manacher
 |  |
 | ------- |
@@ -184,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/divyadhimaan/leetcoding/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
