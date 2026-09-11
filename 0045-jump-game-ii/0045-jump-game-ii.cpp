@@ -2,19 +2,22 @@ class Solution {
 public:
     int jump(vector<int>& nums) {
         int n = nums.size();
+        if(n==1)
+            return 0;
 
-        //jumps[i] -> minimum number of jumps to reach index i
-        vector<int> jumps(n, INT_MAX);
-        jumps[0]=0;
+        int coverage = 0, lastIdx = 0, jumps= 0;
 
-        for(int i=1;i<n;i++){
-            for(int j=0;j<i;j++){
-                if(nums[j]+j >= i){
-                    jumps[i] = min(jumps[i], jumps[j]+1);
-                }
+        for(int i=0;i<n;i++){
+            coverage = max(coverage, nums[i]+i);
+
+            if(i==lastIdx){
+                lastIdx = coverage;
+                jumps++;
+
+                if(lastIdx >= n-1)
+                    break;
             }
         }
-
-        return jumps[n-1];
+        return jumps;
     }
 };
