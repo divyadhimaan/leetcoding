@@ -10,46 +10,47 @@
  */
 class Solution {
 public:
-    
-    ListNode* reverseList(ListNode* head)
-    {
-        ListNode* p = head;
-        ListNode* q = NULL;
+    ListNode* reverseList(ListNode* root){
+        ListNode* p = root;
+        ListNode* q = root;
         ListNode* r;
-        
-        while(p)
-        {
-            r = q;
+
+        while(p){
             q = p;
-            p=p->next;
+            p = p->next;
             q->next = r;
+            r = q;
         }
         return q;
     }
-    
+
     void reorderList(ListNode* head) {
-        ListNode* fast = head;
         ListNode* slow = head;
-        
-        while(fast->next && fast->next->next)
-        {
-            fast=fast->next->next;
-            slow=slow->next;
+        ListNode* fast = head;
+
+        while(fast && fast->next){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        
-        ListNode* head2 = reverseList(slow);
+
+        ListNode* secondHead = reverseList(slow->next);
         slow->next = NULL;
-        ListNode* tail = head;
-        ListNode* tail2 = head2;
-                
-        while(head && head2)
-        {
-            tail = head->next;
-            head->next = head2;
-            tail2 = head2->next;
-            head2->next = tail;
-            head = tail;
-            head2 = tail2;
+
+        ListNode* firstHead = head;
+
+        
+        while(firstHead && secondHead){
+            ListNode* temp1 = firstHead->next;
+            ListNode* temp2 = secondHead->next;
+
+            firstHead->next = secondHead;
+
+            if(!temp1)
+                break;
+            secondHead->next = temp1;
+
+            firstHead = temp1;
+            secondHead = temp2;
         }
     }
 };
