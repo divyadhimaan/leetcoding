@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/divyadhimaan/leetcoding/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/divyadhimaan/leetcoding/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/divyadhimaan/leetcoding/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/divyadhimaan/leetcoding/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/divyadhimaan/leetcoding/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/divyadhimaan/leetcoding/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/divyadhimaan/leetcoding/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/divyadhimaan/leetcoding/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -143,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/divyadhimaan/leetcoding/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/divyadhimaan/leetcoding/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
