@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyadhimaan/leetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/divyadhimaan/leetcoding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/divyadhimaan/leetcoding/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/divyadhimaan/leetcoding/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/divyadhimaan/leetcoding/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/divyadhimaan/leetcoding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/divyadhimaan/leetcoding/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/divyadhimaan/leetcoding/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/divyadhimaan/leetcoding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/divyadhimaan/leetcoding/tree/master/0057-insert-interval) |
 | [0189-rotate-array](https://github.com/divyadhimaan/leetcoding/tree/master/0189-rotate-array) |
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/divyadhimaan/leetcoding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/divyadhimaan/leetcoding/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/divyadhimaan/leetcoding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
