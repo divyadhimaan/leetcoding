@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/divyadhimaan/leetcoding/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/divyadhimaan/leetcoding/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/divyadhimaan/leetcoding/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/divyadhimaan/leetcoding/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 ## Queue
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/divyadhimaan/leetcoding/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/divyadhimaan/leetcoding/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divyadhimaan/leetcoding/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/divyadhimaan/leetcoding/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -177,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/divyadhimaan/leetcoding/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -193,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/divyadhimaan/leetcoding/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
