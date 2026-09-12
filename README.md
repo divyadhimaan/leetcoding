@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/divyadhimaan/leetcoding/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/divyadhimaan/leetcoding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/divyadhimaan/leetcoding/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/divyadhimaan/leetcoding/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/divyadhimaan/leetcoding/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/divyadhimaan/leetcoding/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/divyadhimaan/leetcoding/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
