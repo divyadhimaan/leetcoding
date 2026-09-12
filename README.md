@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/divyadhimaan/leetcoding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/divyadhimaan/leetcoding/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/divyadhimaan/leetcoding/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/divyadhimaan/leetcoding/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/divyadhimaan/leetcoding/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 ## Queue
 |  |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/divyadhimaan/leetcoding/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -86,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/divyadhimaan/leetcoding/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/divyadhimaan/leetcoding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -154,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/divyadhimaan/leetcoding/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -223,4 +228,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/divyadhimaan/leetcoding/tree/master/0207-course-schedule) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
