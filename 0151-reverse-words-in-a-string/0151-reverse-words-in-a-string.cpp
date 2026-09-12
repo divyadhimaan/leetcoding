@@ -1,17 +1,27 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        vector<string> words;
-        stringstream ss(s);
-        string tmp;
-        while (ss >> tmp)
-            words.push_back(tmp);
-
-        string ans;
-        for (int i = words.size() - 1; i >= 0; --i) {
-            if (i != words.size() - 1) ans += " ";
-            ans += words[i];
+        stack<string> stk;
+        string temp = "";
+        for(char c: s){
+            if(c == ' '){
+                if(temp != ""){
+                    stk.push(temp);
+                    temp = "";
+                }
+            }else{
+                temp += c;
+            }
         }
-        return ans;
+        cout<<"temp: "<<temp<<endl;
+        if(temp != "")
+            stk.push(temp);
+        string res;
+        while(!stk.empty()){
+            res += stk.top() + " ";
+            stk.pop();
+        }
+        res.pop_back();
+        return res;
     }
 };
