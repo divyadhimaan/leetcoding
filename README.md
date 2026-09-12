@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/divyadhimaan/leetcoding/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/divyadhimaan/leetcoding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/divyadhimaan/leetcoding/tree/master/0076-minimum-window-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,12 +170,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -185,10 +188,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -198,4 +203,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/divyadhimaan/leetcoding/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
