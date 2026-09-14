@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/divyadhimaan/leetcoding/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/divyadhimaan/leetcoding/tree/master/0207-course-schedule) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/divyadhimaan/leetcoding/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -247,4 +250,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
