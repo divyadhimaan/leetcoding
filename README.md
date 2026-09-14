@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
+| [0739-daily-temperatures](https://github.com/divyadhimaan/leetcoding/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/divyadhimaan/leetcoding/tree/master/0994-rotting-oranges) |
 ## Queue
 |  |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/divyadhimaan/leetcoding/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/divyadhimaan/leetcoding/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/divyadhimaan/leetcoding/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -260,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/divyadhimaan/leetcoding/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
