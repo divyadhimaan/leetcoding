@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/divyadhimaan/leetcoding/tree/master/0994-rotting-oranges) |
 ## Queue
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/divyadhimaan/leetcoding/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/divyadhimaan/leetcoding/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/divyadhimaan/leetcoding/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/divyadhimaan/leetcoding/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/divyadhimaan/leetcoding/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0994-rotting-oranges](https://github.com/divyadhimaan/leetcoding/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
