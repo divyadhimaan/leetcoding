@@ -6,14 +6,14 @@ public:
 
         vector<int> res(n, -1);
 
-        for(int i = 2*n-1; i >= 0; i--){
-            while(!stk.empty() && stk.top() <= nums[i%n])
+        for(int i = 0; i < 2*n; i++){
+            while(!stk.empty() && nums[stk.top()] < nums[i%n]){
+                int j = stk.top();
                 stk.pop();
-
-            if(!stk.empty() && i<n)
-                res[i] = stk.top();
-
-            stk.push(nums[i%n]);
+                res[j] = nums[i%n];
+            }
+            if(i<n)
+                stk.push(i);
         }
         return res;
     }
