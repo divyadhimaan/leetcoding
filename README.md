@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/divyadhimaan/leetcoding/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/divyadhimaan/leetcoding/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0503-next-greater-element-ii) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/divyadhimaan/leetcoding/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/divyadhimaan/leetcoding/tree/master/0451-sort-characters-by-frequency) |
 | [0973-k-closest-points-to-origin](https://github.com/divyadhimaan/leetcoding/tree/master/0973-k-closest-points-to-origin) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/divyadhimaan/leetcoding/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/divyadhimaan/leetcoding/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/divyadhimaan/leetcoding/tree/master/0189-rotate-array) |
+| [0253-meeting-rooms-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0253-meeting-rooms-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/divyadhimaan/leetcoding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0229-majority-element-ii) |
+| [0253-meeting-rooms-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/divyadhimaan/leetcoding/tree/master/0451-sort-characters-by-frequency) |
@@ -119,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/divyadhimaan/leetcoding/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0045-jump-game-ii) |
+| [0253-meeting-rooms-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
@@ -307,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/divyadhimaan/leetcoding/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0253-meeting-rooms-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
