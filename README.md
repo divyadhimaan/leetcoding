@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/divyadhimaan/leetcoding/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
+| [0503-next-greater-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/divyadhimaan/leetcoding/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/divyadhimaan/leetcoding/tree/master/0994-rotting-oranges) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/divyadhimaan/leetcoding/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/divyadhimaan/leetcoding/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/divyadhimaan/leetcoding/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -265,5 +267,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/divyadhimaan/leetcoding/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
