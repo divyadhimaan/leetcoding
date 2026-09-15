@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
+| [0695-max-area-of-island](https://github.com/divyadhimaan/leetcoding/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/divyadhimaan/leetcoding/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyadhimaan/leetcoding/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/divyadhimaan/leetcoding/tree/master/0994-rotting-oranges) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/divyadhimaan/leetcoding/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/divyadhimaan/leetcoding/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/divyadhimaan/leetcoding/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/divyadhimaan/leetcoding/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/divyadhimaan/leetcoding/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/divyadhimaan/leetcoding/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/divyadhimaan/leetcoding/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/divyadhimaan/leetcoding/tree/master/0695-max-area-of-island) |
 ## Tree
 |  |
 | ------- |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/divyadhimaan/leetcoding/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/divyadhimaan/leetcoding/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -233,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/divyadhimaan/leetcoding/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/divyadhimaan/leetcoding/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/divyadhimaan/leetcoding/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/divyadhimaan/leetcoding/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
