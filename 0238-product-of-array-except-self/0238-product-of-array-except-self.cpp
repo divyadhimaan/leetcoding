@@ -14,8 +14,6 @@ public:
             suff *= nums[i+1];
             result[i] *= suff;
         }
-
-        
         return result;
     }
 };
