@@ -24,7 +24,7 @@ public:
             }
         }
 
-        cnt1 = 1, cnt2=0;
+        cnt1 = 0, cnt2=0;
         for(int num: nums){
             if(num == ele1)
                 cnt1++;
