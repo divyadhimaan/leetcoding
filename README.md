@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/divyadhimaan/leetcoding/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/divyadhimaan/leetcoding/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/divyadhimaan/leetcoding/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyadhimaan/leetcoding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Queue
 |  |
 | ------- |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyadhimaan/leetcoding/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyadhimaan/leetcoding/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyadhimaan/leetcoding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Matrix
 |  |
 | ------- |
