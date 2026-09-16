@@ -2,34 +2,13 @@ class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
         vector<int> freq(26, 0);
-        for(char c: tasks){
+        for(char c: tasks)
             freq[c-'A']++;
-        }
 
-        priority_queue<int> pq;
-        for(int i=0;i<26;i++){
-            if(freq[i] > 0)
-                pq.push(freq[i]);
-        }
 
-        int time = 0;
-        while(!pq.empty()){
-            int cycle = n+1;
-            vector<int> store;
-            int taskCount = 0;
+        int maxFreq = *max_element(freq.begin(),freq.end()); // find max frequency
+        int maxCount = count(freq.begin(), freq.end(), maxFreq); // find count of tasks with max freq
 
-            while(cycle-- && !pq.empty()){
-                if(pq.top() > 1)
-                    store.push_back(pq.top()-1);
-                pq.pop();
-                taskCount++;
-            }
-
-            for(auto x: store)
-                pq.push(x);
-
-            time += pq.empty() ? taskCount : n+1;
-        }
-        return time;
+        return max((int)tasks.size(), (maxFreq-1) * (n+1) + maxCount);
     }
 };
