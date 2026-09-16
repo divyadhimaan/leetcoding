@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/divyadhimaan/leetcoding/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/divyadhimaan/leetcoding/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/divyadhimaan/leetcoding/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/divyadhimaan/leetcoding/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/divyadhimaan/leetcoding/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyadhimaan/leetcoding/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/divyadhimaan/leetcoding/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/divyadhimaan/leetcoding/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/divyadhimaan/leetcoding/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
@@ -117,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/divyadhimaan/leetcoding/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/divyadhimaan/leetcoding/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/divyadhimaan/leetcoding/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
@@ -125,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0045-jump-game-ii) |
 | [0253-meeting-rooms-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/divyadhimaan/leetcoding/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -290,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/divyadhimaan/leetcoding/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/divyadhimaan/leetcoding/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
