@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/divyadhimaan/leetcoding/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/divyadhimaan/leetcoding/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/divyadhimaan/leetcoding/tree/master/0621-task-scheduler) |
 ## String
 |  |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/divyadhimaan/leetcoding/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/divyadhimaan/leetcoding/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/divyadhimaan/leetcoding/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/divyadhimaan/leetcoding/tree/master/0695-max-area-of-island) |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/divyadhimaan/leetcoding/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0253-meeting-rooms-ii) |
+| [0525-contiguous-array](https://github.com/divyadhimaan/leetcoding/tree/master/0525-contiguous-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
