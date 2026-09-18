@@ -14,7 +14,7 @@ public:
                 if(nums1[i] < nums2[j])
                     ele1 = nums1[i++];
                 else
-                    ele2 = nums2[j++];
+                    ele1 = nums2[j++];
             }else if(i<n){
                 ele1 = nums1[i++];
             }else{
@@ -23,7 +23,7 @@ public:
         }
 
         if((n+m) % 2==1)
-            return (double) ele2;
+            return (double) ele1;
         return (double)((double)ele1+ele2)/2.0;
     }
 };
