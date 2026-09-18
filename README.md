@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/divyadhimaan/leetcoding/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/divyadhimaan/leetcoding/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/divyadhimaan/leetcoding/tree/master/0621-task-scheduler) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/divyadhimaan/leetcoding/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/divyadhimaan/leetcoding/tree/master/0695-max-area-of-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -270,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/divyadhimaan/leetcoding/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/divyadhimaan/leetcoding/tree/master/0695-max-area-of-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/divyadhimaan/leetcoding/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
