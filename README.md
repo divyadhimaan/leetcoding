@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/divyadhimaan/leetcoding/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/divyadhimaan/leetcoding/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/divyadhimaan/leetcoding/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/divyadhimaan/leetcoding/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/divyadhimaan/leetcoding/tree/master/0048-rotate-image) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/divyadhimaan/leetcoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/divyadhimaan/leetcoding/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyadhimaan/leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyadhimaan/leetcoding/tree/master/0852-peak-index-in-a-mountain-array) |
