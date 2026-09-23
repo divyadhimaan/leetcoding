@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/divyadhimaan/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/divyadhimaan/leetcoding/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/divyadhimaan/leetcoding/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/divyadhimaan/leetcoding/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/divyadhimaan/leetcoding/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/divyadhimaan/leetcoding/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/divyadhimaan/leetcoding/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/divyadhimaan/leetcoding/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/divyadhimaan/leetcoding/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/divyadhimaan/leetcoding/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/divyadhimaan/leetcoding/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divyadhimaan/leetcoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/divyadhimaan/leetcoding/tree/master/0994-rotting-oranges) |
 ## Stack
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/divyadhimaan/leetcoding/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/divyadhimaan/leetcoding/tree/master/0269-alien-dictionary) |
 | [0547-number-of-provinces](https://github.com/divyadhimaan/leetcoding/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/divyadhimaan/leetcoding/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -358,4 +362,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/divyadhimaan/leetcoding/tree/master/0973-k-closest-points-to-origin) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/divyadhimaan/leetcoding/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/divyadhimaan/leetcoding/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
